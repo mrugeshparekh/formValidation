@@ -1,0 +1,7 @@
+.valid{
+    background-color: rgba(156,242,134,0.62);
+}
+
+.invalid{
+    background-color: rgba(242,134,134,0.62);
+}
